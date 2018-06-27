@@ -1,0 +1,26 @@
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\bin\Debug\SimpleDesignApp.exe.config
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\bin\Debug\SimpleDesignApp.exe
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\bin\Debug\SimpleDesignApp.pdb
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Debug\SimpleDesignApp.csprojResolveAssemblyReference.cache
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Debug\SimpleDesignApp.Form1.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Debug\SimpleDesignApp.Properties.Resources.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Debug\SimpleDesignApp.csproj.GenerateResource.Cache
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Debug\SimpleDesignApp.exe
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Debug\SimpleDesignApp.pdb
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Debug\SimpleDesignApp.SettingForm.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Debug\SimpleDesignApp.GraphicalDisplay.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Debug\SimpleDesignApp.Mainform.resources
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\bin\Debug\SimpleDesignApp.exe.config
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\bin\Debug\SimpleDesignApp.exe
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\bin\Debug\SimpleDesignApp.pdb
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\bin\Debug\AutoUpdater.dll
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Debug\SimpleDesignApp.csprojResolveAssemblyReference.cache
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Debug\SimpleDesignApp.FrmMain.resources
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Debug\SimpleDesignApp.GraphicalDisplay.resources
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Debug\SimpleDesignApp.Mainform.resources
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Debug\SimpleDesignApp.Properties.Resources.resources
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Debug\SimpleDesignApp.SettingForm.resources
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Debug\SimpleDesignApp.csproj.GenerateResource.Cache
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Debug\SimpleDesignApp.csproj.CoreCompileInputs.cache
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Debug\SimpleDesignApp.exe
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Debug\SimpleDesignApp.pdb

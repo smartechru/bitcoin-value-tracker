@@ -1,0 +1,36 @@
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\bin\Release\SimpleDesignApp.exe.config
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\bin\Release\SimpleDesignApp.exe
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\bin\Release\SimpleDesignApp.pdb
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Release\SimpleDesignApp.Form1.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Release\SimpleDesignApp.GraphicalDisplay.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Release\SimpleDesignApp.Mainform.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Release\SimpleDesignApp.Properties.Resources.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Release\SimpleDesignApp.SettingForm.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Release\SimpleDesignApp.csproj.GenerateResource.Cache
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Release\SimpleDesignApp.exe
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Release\SimpleDesignApp.pdb
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp\SimpleDesignApp\obj\Release\SimpleDesignApp.csprojResolveAssemblyReference.cache
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp_Designer\SimpleDesignApp\bin\Release\SimpleDesignApp.exe.config
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp_Designer\SimpleDesignApp\bin\Release\SimpleDesignApp.exe
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp_Designer\SimpleDesignApp\bin\Release\SimpleDesignApp.pdb
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp_Designer\SimpleDesignApp\obj\Release\SimpleDesignApp.Form1.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp_Designer\SimpleDesignApp\obj\Release\SimpleDesignApp.GraphicalDisplay.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp_Designer\SimpleDesignApp\obj\Release\SimpleDesignApp.Mainform.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp_Designer\SimpleDesignApp\obj\Release\SimpleDesignApp.Properties.Resources.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp_Designer\SimpleDesignApp\obj\Release\SimpleDesignApp.SettingForm.resources
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp_Designer\SimpleDesignApp\obj\Release\SimpleDesignApp.csproj.GenerateResource.Cache
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp_Designer\SimpleDesignApp\obj\Release\SimpleDesignApp.exe
+D:\Client Proposals\Bitcoin\BitcoinScraping\SimpleDesignApp_Designer\SimpleDesignApp\obj\Release\SimpleDesignApp.pdb
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\bin\Release\SimpleDesignApp.exe.config
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\bin\Release\SimpleDesignApp.exe
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\bin\Release\SimpleDesignApp.pdb
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Release\SimpleDesignApp.csprojResolveAssemblyReference.cache
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Release\SimpleDesignApp.FrmMain.resources
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Release\SimpleDesignApp.GraphicalDisplay.resources
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Release\SimpleDesignApp.Mainform.resources
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Release\SimpleDesignApp.Properties.Resources.resources
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Release\SimpleDesignApp.SettingForm.resources
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Release\SimpleDesignApp.csproj.GenerateResource.Cache
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Release\SimpleDesignApp.csproj.CoreCompileInputs.cache
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Release\SimpleDesignApp.exe
+E:\Creation\CsharpWorks\Bitcoin\SimpleDesignApp\obj\Release\SimpleDesignApp.pdb
